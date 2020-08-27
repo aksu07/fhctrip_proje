@@ -55,5 +55,6 @@ public class HotelRoomRezervasyonTest extends TestBase {
         Assert.assertTrue(wait.until(ExpectedConditions.textToBe(By.className("bootbox-body"),"RoomReservation was inserted successfully")));
         //Buradaki ilk degisikligimiz
         //Welcome everyone
+        //Welcome (Burak)
     }
 }
