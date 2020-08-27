@@ -53,6 +53,6 @@ public class HotelRoomRezervasyonTest extends TestBase {
 
         WebDriverWait wait = new WebDriverWait(driver, 20);
         Assert.assertTrue(wait.until(ExpectedConditions.textToBe(By.className("bootbox-body"),"RoomReservation was inserted successfully")));
-
+        //Buradaki ilk degisikligimiz
     }
 }
