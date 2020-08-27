@@ -56,8 +56,5 @@ public class HotelRoomRezervasyonTest extends TestBase {
         //Buradaki ilk degisikligimiz
         //Welcome everyone
         //Serdar- Merhaba
-        
-        
-        Zuhre- Hello everyone
     }
 }
