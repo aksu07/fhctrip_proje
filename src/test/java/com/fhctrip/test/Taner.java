@@ -6,5 +6,7 @@ public class Taner {
     //yukaridaki code masterdakini alip localisiler
 
   // git fetch --set-upstream origin branchName
+    
+    //abi hakkinizi helal edin sizi cok yorduk bu gun
 
 }
