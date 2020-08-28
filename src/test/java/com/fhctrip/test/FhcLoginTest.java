@@ -6,7 +6,6 @@ import com.fhctrip.utilities.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import java.sql.Driver;
 
 public class FhcLoginTest extends TestBase {
 
